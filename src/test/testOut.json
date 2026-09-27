@@ -1,0 +1,385 @@
+[ {
+  "id" : 1,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:09.105223400+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 2,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:09.388440100+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 3,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:09.544220200+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 4,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:09.695922700+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 5,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:09.844340400+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 6,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:09.994644500+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 7,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:10.145669500+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+}, {
+  "id" : 8,
+  "source" : "Weather",
+  "timestamp" : "2026-04-16T03:04:10.296337100+03:00",
+  "data" : {
+    "coord" : {
+      "lon" : 30.3885,
+      "lat" : 60.0219
+    },
+    "weather" : [ {
+      "id" : 804,
+      "main" : "Clouds",
+      "description" : "overcast clouds",
+      "icon" : "04n"
+    } ],
+    "base" : "stations",
+    "main" : {
+      "temp" : 281.36,
+      "feels_like" : 280.48,
+      "temp_min" : 280.09,
+      "temp_max" : 281.36,
+      "pressure" : 1020,
+      "humidity" : 84,
+      "sea_level" : 1020,
+      "grnd_level" : 1018
+    },
+    "visibility" : 10000,
+    "wind" : {
+      "speed" : 1.76,
+      "deg" : 77,
+      "gust" : 2.18
+    },
+    "clouds" : {
+      "all" : 100
+    },
+    "dt" : 1776297784,
+    "sys" : {
+      "type" : 2,
+      "id" : 2045711,
+      "country" : "RU",
+      "sunrise" : 1776307156,
+      "sunset" : 1776359814
+    },
+    "timezone" : 10800,
+    "id" : 538408,
+    "name" : "Kushelevka",
+    "cod" : 200
+  }
+} ]

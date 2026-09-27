@@ -1,0 +1,2913 @@
+[ {
+  "id" : 1,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:12.369041600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 2,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:12.658454600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 3,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:12.788055900+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 4,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:12.916365600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 5,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.039941300+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 6,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.188202100+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 7,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.315994900+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 8,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.449519800+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 9,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.575216500+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 10,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.703020300+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 11,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.829556500+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 12,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:13.970025500+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 13,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.100120200+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 14,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.228223600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 15,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.352529400+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 16,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.493025600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 17,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.621538600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 18,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.752340300+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 19,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:14.876067600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 20,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.016822100+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 21,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.142387800+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 22,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.275501200+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 23,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.405401500+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 24,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.533043600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 25,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.659913900+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 26,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.788349800+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 27,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:15.915894900+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 28,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.043202800+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 29,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.194832800+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 30,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.325247200+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 31,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.451307500+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 32,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.580196+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 33,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.707136+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 34,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.832293400+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 35,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:16.958501700+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 36,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.086279+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 37,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.212514200+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 38,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.349691700+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 39,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.481995300+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 40,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.607931700+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 41,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.737711600+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 42,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:17.866648400+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 43,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.000120400+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 44,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.127963100+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 45,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.255233400+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 46,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.382945900+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 47,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.507046100+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 48,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.630920400+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 49,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.755223100+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 50,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:18.886125+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 51,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:19.020097700+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 52,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:19.148305300+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 53,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:19.275410500+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 54,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:19.403062800+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 55,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:19.563378300+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+}, {
+  "id" : 56,
+  "source" : "AnimeNews",
+  "timestamp" : "2026-04-11T19:42:19.712016100+03:00",
+  "data" : {
+    "success" : true,
+    "data" : [ {
+      "title" : "Manga 'Mao' Receives TV Anime for Spring 2026",
+      "slug" : "myanimelist-manga-mao-receives-tv-anime-for-spring-2026",
+      "source" : "MyAnimeList",
+      "excerpt" : "Bandai Namco Filmworks opened an official website for a television anime of Rumiko Takahashi's Mao manga on Monday, revealing the main cast, production staff, a teaser visual (pictured), and teaser promotional video. The anime series is scheduled to premiere on NHK G in Spring 20...",
+      "date" : "2025-07-17T02:30:43.494Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73009429",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "Manga 'Kabushikigaisha Magi-Lumière' Ends Serialization",
+      "slug" : "myanimelist-manga-kabushikigaisha-magi-lumire-ends-serialization",
+      "source" : "MyAnimeList",
+      "excerpt" : "Iwata Sekka and Yuu Aoki's Kabushigaisha Magi-Lumière (Magilumiere Magical Girls Inc) manga ended last Wednesday. The 160th chapter marked the end of its four year run. Sekka and Aoki began serializing the manga on the Shounen Jump+ website in October 2021. Shueisha published the...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73018080",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Nukitashi the Animation' Announces Additional Cast",
+      "slug" : "myanimelist-nukitashi-the-animation-announces-additional-cast",
+      "source" : "MyAnimeList",
+      "excerpt" : "The official X (formerly Twitter) account for Nukitashi the Animation television anime revealed additional cast on Monday. The anime series adapting the visual novel Nukitashi is scheduled to premiere on July 19 at 2:05 a.m. on AT-X, followed by BS11, Tokyo MX, Gifu Broadcasting,...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73017564",
+      "tags" : [ "official", "news", "myanimelist" ]
+    }, {
+      "title" : "'Monster Strike: Deadverse Reloaded' TV Anime Announced for Fall 2025",
+      "slug" : "myanimelist-monster-strike-deadverse-reloaded-tv-anime-announced-for-fall-2025",
+      "source" : "MyAnimeList",
+      "excerpt" : "A television anime adaptation for the Monster Strike smartphone role-playing game was announced at the Dreamdaze III event on Sunday. Titled Monster Strike: Deadverse Reloaded, the anime is scheduled to premiere on Tokyo MX and 45 other stations in October 2025. This marks the f...",
+      "date" : "2025-07-17T02:30:43.493Z",
+      "image" : "",
+      "link" : "https://myanimelist.net/news/73013893",
+      "tags" : [ "official", "news", "myanimelist" ]
+    } ],
+    "meta" : {
+      "total" : 4,
+      "source" : "all",
+      "sort" : "latest",
+      "limit" : 4,
+      "timestamp" : "2026-04-11T16:42:10.887Z",
+      "availableSources" : [ "all", "ann", "animecorner", "myanimelist", "otakuusa", "crunchyroll" ]
+    }
+  }
+} ]
